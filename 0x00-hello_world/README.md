@@ -6,4 +6,4 @@
 * also more on the Puts and the printF functions
 
 ## Author
-** Brian Kimani ** *kb*
+**Brian Kimani** *kb*
