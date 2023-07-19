@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - print numbers from n to 98
- * @n - where to start
+ * @n: where to start
  * Return: always 0
  */
 
@@ -33,7 +33,7 @@ void print_to_98(int n)
 	{
 		for (count = n; count <= 98; count++)
 		{
-				printf("%d", count);
+			printf("%d", count);
 			if (count != 98)
 			{
 				putchar(',');
