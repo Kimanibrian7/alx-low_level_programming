@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *_isdigit - looks for an upper case character
- * @c - character to be evaluated
+ * _isdigit - looks for an upper case character
+ * @c: character to be evaluated
  * Return: 1 if uppercase and 0 if otherwise.
  */
 
