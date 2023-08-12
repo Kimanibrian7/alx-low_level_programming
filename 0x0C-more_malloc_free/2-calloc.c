@@ -2,8 +2,8 @@
 
 /**
  * *_calloc - allocate memory to an array
- * @nmemb - size of array
- * @size - size of each member
+ * @nmemb: size of array
+ * @size: size of each member
  * Return: pointer to array and NULL if anything fails
  */
 
@@ -21,5 +21,5 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 		return (NULL);
 	for (i = 0; i < bytes; i++)
 		*((char *)ptr + i) = 0;
-	return ptr;
+	return (ptr);
 }
